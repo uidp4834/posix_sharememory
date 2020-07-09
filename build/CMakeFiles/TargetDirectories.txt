@@ -1,0 +1,4 @@
+/work/ipu02/command_protocol/modules/reference/exapmle_shm/build/CMakeFiles/rebuild_cache.dir
+/work/ipu02/command_protocol/modules/reference/exapmle_shm/build/CMakeFiles/test_shm_read.dir
+/work/ipu02/command_protocol/modules/reference/exapmle_shm/build/CMakeFiles/edit_cache.dir
+/work/ipu02/command_protocol/modules/reference/exapmle_shm/build/CMakeFiles/test_shm_write.dir

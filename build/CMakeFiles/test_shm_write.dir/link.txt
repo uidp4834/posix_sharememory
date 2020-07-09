@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11    CMakeFiles/test_shm_write.dir/src/sharememory.cpp.o CMakeFiles/test_shm_write.dir/write/main.cpp.o  -o test_shm_write -rdynamic -lpthread -lrt 
